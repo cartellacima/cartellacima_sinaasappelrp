@@ -1,6 +1,0 @@
-Plaats hier je bestaande afbeeldingen en behoud de bestandsnamen die in de HTML worden gebruikt:
-- f275185a-7b78-4d47-b29a-3f92ea401cad.png
-- la-cima-hero.png
-- Screenshot 2026-10-14 192630.png
-
-Deze bestanden zijn niet meegeleverd in het codepakket; kopieer ze uit je huidige website.
