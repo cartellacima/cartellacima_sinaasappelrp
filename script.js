@@ -41,7 +41,7 @@
   const videoFrame = document.querySelector('[data-video-frame]');
   if (videoFrame) {
     const videoId = videoFrame.dataset.youtubeId;
-    if (videoId && videoId !== 'VOEG_VIDEO_ID_TOE') {
+    if (videoId && videoId !== 'https://www.youtube.com/watch?v=KcJ9idXWCos&t=39sE') {
       const iframe = document.createElement('iframe');
       iframe.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(videoId)}`;
       iframe.title = 'Cartel La Cima video';
